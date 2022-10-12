@@ -1,0 +1,2 @@
+# dj-event-app
+SIMPLE DJ EVENT APP USING NEXTJS
